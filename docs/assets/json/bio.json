@@ -1,0 +1,11 @@
+{
+  "firstName": "Jaydeep",
+  "lastName": "Pawar",
+  "intro": [
+    "I'm a freelance full stack software developer with a passion for web development. I am currently based in India. I do software design and development.",
+    "You can have a look at some of my work here."
+  ],
+  "about": [
+    "I have been building software for the last six years using technologies like Java,Angular,Docker etc. Understanding problem statements and delivering prompt solutions is my strong suit."
+  ]
+}

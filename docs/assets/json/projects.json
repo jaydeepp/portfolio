@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Edison Open AI Orchestrator",
+    "stack": {
+      "name": "Angular",
+      "iconClasses": "fab fa-angular"
+    },
+    "description": "Developed user interface of GE AI workflow orchestrator in Angular from scratch..",
+    "sourceUrl": "https://www.gehealthcare.com/products/healthcare-it/enterprise-imaging/edison-open-ai-orchestrator",
+    "previewUrl": "https://www.gehealthcare.com/products/healthcare-it/enterprise-imaging/edison-open-ai-orchestrator",
+    "featured": true
+  },
+  {
+    "name": "Recon Restful Webservices",
+    "stack": {
+      "name": "Spring Boot",
+      "iconClasses": "fab fa-java"
+    },
+    "description": "Developed RESTful web services for reconciliation engine in Spring Boot using Spring Data REST, Spring Data JPA, Java 8.",
+    "sourceUrl": "https://github.com",
+    "previewUrl": "https://github.com",
+    "featured": false
+  },
+  {
+    "name": "Recon Engine App",
+    "stack": {
+      "name": "Angular",
+      "iconClasses": "fab fa-angular"
+    },
+    "description": "Developed user interface of reconciliation engine in Morgan Stanley in Angular 8.",
+    "sourceUrl": "https://github.com",
+    "previewUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "name": "RetailPro Prism Plugin",
+    "stack": {
+      "name": "AngularJS",
+      "iconClasses": "fab fa-angular"
+    },
+    "description": "Developed plugins for an online payment application named “RetailPro Prism” in AngularJS.",
+    "sourceUrl": "https://github.com",
+    "previewUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "name": "XML based Data Import",
+    "stack": {
+      "name": "Spring boot",
+      "iconClasses": "fab fa-java"
+    },
+    "description": "Developed data import for xml based file types for real time dashboard monitoring",
+    "sourceUrl": "https://github.com",
+    "previewUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "name": "Microsoft Drive Data Import",
+    "stack": {
+      "name": "Microsoft Graph,Spring Boot",
+      "iconClasses": "fab fa-java"
+    },
+    "description": "Developed real time data import for shared data using Microsoft Graph Sharepoint API.",
+    "sourceUrl": "https://github.com",
+    "previewUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "name": "BI-Integrator App",
+    "stack": {
+      "name": "Spring Boot",
+      "iconClasses": "fab fa-java"
+    },
+    "description": "Developed application to extract data from RetailPro application on demand and on schedule",
+    "sourceUrl": "https://github.com",
+    "previewUrl": "https://github.com",
+    "featured": true
+  }
+]

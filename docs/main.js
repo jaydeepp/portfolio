@@ -348,7 +348,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [{
-        path: '',
+        path: 'portfolio',
         loadChildren: () => __webpack_require__.e(/*! import() | portfolio-portfolio-module */ "portfolio-portfolio-module").then(__webpack_require__.bind(null, /*! ./portfolio/portfolio.module */ "9enj")).then(m => m.PortfolioModule)
     }];
 class AppRoutingModule {

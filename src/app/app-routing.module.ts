@@ -2,12 +2,12 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [{
-  path: 'portfolio',
+  path: '',
   loadChildren: () => import('./portfolio/portfolio.module').then(m => m.PortfolioModule)
 }];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes, { anchorScrolling: 'enabled' })],
+  imports: [RouterModule.forRoot(routes, { anchorScrolling: 'enabled', useHash: false })],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
